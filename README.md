@@ -1,4 +1,4 @@
 # Javascript
 javascript exercises
-this is Javascriptcopy
+this is Javascriptoriginal
 more notes on web
