@@ -1,4 +1,4 @@
 # Javascript
 javascript exercises
-added notes
+added notes 1
 more notes on web
